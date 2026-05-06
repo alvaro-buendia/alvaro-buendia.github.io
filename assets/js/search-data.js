@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "This are my GitHub repositories",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -519,13 +519,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%61%6C%76%61%72%6F-%62%75%65%6E%64%69%61@%69%6E%6C.%69%6E%74", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

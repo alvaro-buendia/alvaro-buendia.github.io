@@ -133,8 +133,10 @@ cv:
 
     Skills:
       - name: Physics
-        keywords: "Modelization, simulation and theoretical analysis"
-        
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
     Languages:
       - name: Spanish
         summary: "Native speaker"
@@ -148,8 +150,30 @@ cv:
         - name: French
         summary: "Basic"
 
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "     - name: Physics
+        keywords: "Modelization, simulation and theoretical analysis"
+
+    Certificates:
+      - name: Machine Learning
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-location-dot
+
+      - name: Quantum Computing
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-tag
+
+      - name: Quantum Information
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-envelope
+
     Projects:
-      - name: ADAPTATION (Adaptable bio-inspired polariton-polariton energy management)
+   - name: ADAPTATION (Adaptable bio-inspired polariton-polariton energy management)
         summary: The project explores energy-harvesting architectures with efficient light trapping simultaneously with powerless self-regulatory cooling capacities.
         url: https://adaptation-project.eu/
         start_date: 2025-03-03
@@ -160,4 +184,15 @@ cv:
         url: 
         start_date: 2020-01-10
         end_date: 2024-31-9    
+    References:
+      - name: Professor John Doe
+        icon: fa-solid fa-laptop
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+      - name: Professor Jane Smith
+        icon: fa-solid fa-thumbtack
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Skills:
+ 
+
 

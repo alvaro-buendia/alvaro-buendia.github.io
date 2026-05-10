@@ -15,10 +15,10 @@ cv:
       username: example
 
   address:
-    street: 
+    street: Avenida Mestre José Veiga s/n
     city: Braga
     region: Braga
-    postalCode: CA 94115
+    postalCode: 4710-330
     countryCode: PT
 
   sections:
@@ -106,7 +106,7 @@ cv:
         awarder: Centre for Quantum Technologies (CQT), Singapore 
         summary: My short story "Better, Faster, Stronger, Lonelier", which imagines a chat between a classical and a quantum computer, was shortlisted and won the People's Prize. 
 
-    Selected Publications:
+    Publications:
       - title: Far-field radiation of bulk, edge, and corner eigenmodes from a finite two-dimensional Su-Schrieffer-Heeger plasmonic lattice
         authors:
           - A. Buendía, J.L. Pura, V. Giannini, J.A. Sánchez-Gil
@@ -134,12 +134,6 @@ cv:
     Skills:
       - name: Physics
         keywords: "Modelization, simulation and theoretical analysis"
-
-    Outreach:
--name: European Researchers Night (ERN).
--summary: Organization and preparation of experiments related to light and quantum physics.
-
-    Teaching: 
         
     Languages:
       - name: Spanish

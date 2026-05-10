@@ -17,7 +17,7 @@ cv:
   address:
     street: 
     city: Braga
-    region: California
+    region: Braga
     postalCode: CA 94115
     countryCode: PT
 
@@ -88,18 +88,7 @@ cv:
         start_date: 2018
         end_date: 2020
 
-     
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    
 
     Awards:
       - title: Spanish Research Council Relevant Thesis Award
@@ -117,82 +106,64 @@ cv:
         awarder: Centre for Quantum Technologies (CQT), Singapore 
         summary: My short story "Better, Faster, Stronger, Lonelier", which imagines a chat between a classical and a quantum computer, was shortlisted and won the People's Prize. 
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+    Selected Publications:
+      - title: Far-field radiation of bulk, edge, and corner eigenmodes from a finite two-dimensional Su-Schrieffer-Heeger plasmonic lattice
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
+          - A. Buendía, J.L. Pura, V. Giannini, J.A. Sánchez-Gil
+        publisher: Physical Review B
         releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+        url: https://journals.aps.org/prb/abstract/10.1103/54vz-h71c
+        summary: Studies the far-field radiation patterns of bulk, edge and corner modes in a plasmonic 2D SSH lattice employing an eigenmode analysis within a coupled-dipole formalism. 
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Far-field radiation of bulk, edge, and corner eigenmodes from a finite two-dimensional Su-Schrieffer-Heeger plasmonic lattice
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - A. Buendía, J.L. Pura, V. Giannini, J.A. Sánchez-Gil
+        publisher: Physical Review B
+        releaseDate: 1905-06-30
+        url: https://journals.aps.org/prb/abstract/10.1103/54vz-h71c
+        summary: Studies the far-field radiation patterns of bulk, edge and corner modes in a plasmonic 2D SSH lattice employing an eigenmode analysis within a coupled-dipole formalism. 
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: https://journals.aps.org/prb/abstract/10.1103/54vz-h71c
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - A. Buendía,  J.A. Sánchez-Gil, V. Giannini, W.L. Barnes, M.S. Rider
+        publisher: Nanophotonics
+        releaseDate: 1905-06-30
+        url: https://journals.aps.org/prb/abstract/10.1103/54vz-h71c
+        summary: Studies the far-field radiation patterns of bulk, edge and corner modes in a plasmonic 2D SSH lattice employing an eigenmode analysis within a coupled-dipole formalism. 
 
     Skills:
       - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Modelization, simulation and theoretical analysis"
 
+    Outreach:
+-name: European Researchers Night (ERN).
+-summary: Organization and preparation of experiments related to light and quantum physics.
+
+    Teaching: 
+        
     Languages:
       - name: Spanish
         summary: "Native speaker"
 
       - name: English
-        summary: "All competences"
+        summary: "Proficient"
         
       - name: Portuguese
-        summary: "Intermediate"
+        summary: "Basic"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+        - name: French
+        summary: "Basic"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: ADAPTATION (Adaptable bio-inspired polariton-polariton energy management)
+        summary: The project explores energy-harvesting architectures with efficient light trapping simultaneously with powerless self-regulatory cooling capacities.
+        url: https://adaptation-project.eu/
+        start_date: 2025-03-03
+        end_date: 
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        - name: MELODIA (OPTICA DE LUZ MAGNETO-ELECTRICA IN MEDIOS NANOESTRUCTURADOS DIELECTRICOS)
+        summary: This project explored topological dielectric and plasmonic nanostructures to control light in the nanoscale in unprecedented ways
+        url: 
+        start_date: 2020-01-10
+        end_date: 2024-31-9    
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.

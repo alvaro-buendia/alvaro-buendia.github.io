@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
+    street: 
+    city: Braga
     region: California
     postalCode: CA 94115
-    countryCode: US
+    countryCode: PT
 
   sections:
     Education:
@@ -60,42 +60,35 @@ cv:
           #- Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: International Iberian Nanotechnology Laboratory (INL)
+        position: Postdoctoral Research Fellow
+        location: Braga, PT
+        start_date: 2025
+        end_date: 
+        summary: 
         highlights:
-          - Relativity
-          - Description 2.
+    
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Exeter
+        position: Visiting PhD student
+        location: Exeter, Devon, UK
+        start_date: 2023
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Instituto de Estructura de la Materia (IEM-CSIC)
+        position: PhD researcher
+        location: Madrid, Spain
+        start_date: 2020
+        end_date: 2024
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Universidad Autónoma de Madrid
+        position: Predoctoral researcher
+        location: Madrid, Spain
+        start_date: 2018
+        end_date: 2020
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+     
 
     Volunteer:
       - company: People's Climate March
@@ -109,20 +102,20 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Spanish Research Council Relevant Thesis Award
         authors:
           - "Royal Swedish Academy of Sciences"
         date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        awarder: Spnaish Research Council (CSIC)
+        url: 
+        summary: This award acknowledges 10 thesis from PhD students working at any CSIC institute presented each year, due to their relevance.
 
-      - title: Max Planck Medal
+      - title: Quantum Shorts Shortlist and People's Prize.
         authors:
           - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+        date: 2022
+        awarder: Centre for Quantum Technologies (CQT), Singapore 
+        summary: My short story "Better, Faster, Stronger, Lonelier", which imagines a chat between a classical and a quantum computer, was shortlisted and won the People's Prize. 
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -156,11 +149,14 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Spanish
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "All competences"
+        
+      - name: Portuguese
+        summary: "Intermediate"
 
     Interests:
       - name: Physics

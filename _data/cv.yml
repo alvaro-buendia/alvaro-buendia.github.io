@@ -94,7 +94,7 @@ cv:
         authors:
           - "Royal Swedish Academy of Sciences"
         date: 1921-11-01
-        awarder: Spnaish Research Council (CSIC)
+        awarder: Spanish Research Council (CSIC)
         url: 
         summary: This award acknowledges 10 thesis from PhD students working at any CSIC institute presented each year, due to their relevance.
 
@@ -106,7 +106,6 @@ cv:
         summary: My short story "Better, Faster, Stronger, Lonelier", which imagines a chat between a classical and a quantum computer, was shortlisted and won the People's Prize. 
 
     Publications:
-       Publications:
       - title: Far-field radiation of bulk, edge, and corner eigenmodes from a finite two-dimensional Su-Schrieffer-Heeger plasmonic lattice
         authors:
           - A. Buendía, J.L. Pura, V. Giannini, J.A. Sánchez-Gil

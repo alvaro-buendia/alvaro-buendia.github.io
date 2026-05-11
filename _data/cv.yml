@@ -89,23 +89,24 @@ cv:
 
     Volunteer:
 
+    
     Awards:
-        - title: Spanish Research Council Relevant Thesis Award
+      - title: Nobel Prize in Physics
         authors:
-        - "Royal Swedish Academy of Sciences"
+          - "Royal Swedish Academy of Sciences"
         date: 1921-11-01
-        awarder: Spanish Research Council (CSIC)
-        url: 
-        summary: This award acknowledges 10 thesis from PhD students working at any CSIC institute presented each year, due to their relevance.
+        awarder: Royal Swedish Academy of Sciences
+        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Quantum Shorts Shortlist and People Prize.
+      - title: Max Planck Medal
         authors:
           - "German Physical Society"
-        date: 2022-01-01
-        awarder: Centre for Quantum Technologies (CQT), Singapore 
-        summary: My short story Better, Faster, Stronger, Lonelier, which imagines a chat between a classical and a quantum computer, was shortlisted and won the People Prize. 
+        date: 2029
+        awarder: German Physical Society
+        summary: Awarded for outstanding scientific achievement
 
-  Publications:
+    Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
           - Albert Einstein
@@ -129,8 +130,8 @@ cv:
         releaseDate: 1916-03-20
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-        
- Skills:
+
+    Skills:
       - name: Physics
         level: Master
         icon: fa-solid fa-hashtag
@@ -163,7 +164,7 @@ cv:
         date: 2018-01-01
         issuer: Stanford University
         icon: fa-solid fa-envelope
-        
+
     Projects:
       - name: Quantum Computing
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.

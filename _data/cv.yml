@@ -88,10 +88,11 @@ cv:
         end_date: 2020
 
     Volunteer:
-    
-  - title: Spanish Research Council Relevant Thesis Award
+
+    Awards:
+        - title: Spanish Research Council Relevant Thesis Award
         authors:
-          - "Royal Swedish Academy of Sciences"
+        - "Royal Swedish Academy of Sciences"
         date: 1921-11-01
         awarder: Spanish Research Council (CSIC)
         url: 
@@ -100,7 +101,7 @@ cv:
       - title: Quantum Shorts Shortlist and People Prize.
         authors:
           - "German Physical Society"
-        date: 2022
+        date: 2022-01-01
         awarder: Centre for Quantum Technologies (CQT), Singapore 
         summary: My short story Better, Faster, Stronger, Lonelier, which imagines a chat between a classical and a quantum computer, was shortlisted and won the People Prize. 
 

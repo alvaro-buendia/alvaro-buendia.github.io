@@ -97,12 +97,12 @@ cv:
         url: 
         summary: This award acknowledges 10 thesis from PhD students working at any CSIC institute presented each year, due to their relevance.
 
-      - title: Quantum Shorts Shortlist and People's Prize.
+      - title: Quantum Shorts Shortlist and People Prize.
         authors:
           - "German Physical Society"
         date: 2022
         awarder: Centre for Quantum Technologies (CQT), Singapore 
-        summary: My short story "Better, Faster, Stronger, Lonelier", which imagines a chat between a classical and a quantum computer, was shortlisted and won the People's Prize. 
+        summary: My short story Better, Faster, Stronger, Lonelier, which imagines a chat between a classical and a quantum computer, was shortlisted and won the People Prize. 
 
   Publications:
       - title: Zur Elektrodynamik bewegter Körper

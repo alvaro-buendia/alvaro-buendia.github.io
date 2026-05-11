@@ -114,41 +114,41 @@ cv:
         url: https://journals.aps.org/prb/abstract/10.1103/54vz-h71c
         summary: Studies the far-field radiation patterns of bulk, edge and corner modes in a plasmonic 2D SSH lattice employing an eigenmode analysis within a coupled-dipole formalism. 
 
-    Skills:
+
+ Skills:
       - name: Physics
         level: Master
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
- Languages:
-      - name: Spanish
+    Languages:
+      - name: German
         summary: "Native speaker"
 
       - name: English
-        summary: "Proficient"
-
-      - name: Portuguese
-        summary: "Basic"
-
-        - name: French
-        summary: "Basic"
+        summary: "Fluent"
 
     Interests:
       - name: Physics
         icon: fa-solid fa-tag
-        keywords: "Modelling, Simulation, Theoretical Anaylsis"
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-Certificates:
-      - name: 
-        date: 
-        issuer: 
-        icon: 
+    Certificates:
+      - name: Machine Learning
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-location-dot
 
-      - name:
-        date: 
-        issuer: 
-        icon: 
+      - name: Quantum Computing
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-tag
 
+      - name: Quantum Information
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-envelope
+        
     Projects:
       - name: Quantum Computing
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.

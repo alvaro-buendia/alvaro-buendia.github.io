@@ -33,8 +33,8 @@ cv:
         score: "Cum Laude"
         #courses: "Theory of Relativity"
         #highlights:
-         # - Description 1.
-          #- Description 2.
+        # - Description 1.
+        #- Description 2.
 
       - institution: Euskal Herria Unibersitatea (EHU)
         location: Bilbao, Spain
@@ -43,8 +43,8 @@ cv:
         start_date: 2017
         end_date: 2018
         #highlights:
-         # - Description 1.
-          #- Description 2.
+        # - Description 1.
+        #- Description 2.
 
       - institution: Universidad Autónoma de Madrid (UAM)
         location: Madrid, Spain
@@ -53,11 +53,11 @@ cv:
         studyType: Bachelor in Physics
         start_date: 2013
         end_date: 2017
-       # score: "Cum Laude"
+        # score: "Cum Laude"
         #courses: "Theory of Relativity"
         #highlights:
-         # - Description 1.
-          #- Description 2.
+        # - Description 1.
+        #- Description 2.
 
     Experience:
       - company: International Iberian Nanotechnology Laboratory (INL)
@@ -99,5 +99,5 @@ cv:
       - name: Portuguese
         summary: "Basic"
         
-       - name: French
+      - name: French
         summary: "Basic"

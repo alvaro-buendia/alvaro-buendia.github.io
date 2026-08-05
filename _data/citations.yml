@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   XE7w6XIAAAAJ:0EnyYjriUFMC:
-    citations: 20
+    citations: 19
     title: Exploiting oriented field projectors to open topological gaps in plasmonic nanoparticle arrays
     year: '2023'
   XE7w6XIAAAAJ:4DMP91E08xMC:
@@ -22,11 +22,11 @@ papers:
     title: Strong coupling between molecules and topological edge states of arrays of plasmonic nanoparticles
     year: Unknown Year
   XE7w6XIAAAAJ:MXK_kJrjxJIC:
-    citations: 11
+    citations: 9
     title: Long-range molecular energy transfer mediated by strong coupling to plasmonic topological edge states
     year: '2024'
   XE7w6XIAAAAJ:Se3iqnhoufwC:
-    citations: 67
+    citations: 69
     title: "Tailoring \u03C0-conjugation and vibrational modes to steer on-surface synthesis of pentalene-bridged ladder polymers"
     year: '2020'
   XE7w6XIAAAAJ:WF5omc3nYNoC:
@@ -38,21 +38,17 @@ papers:
     title: Far-field radiation of bulk, edge, and corner eigenmodes from a finite two-dimensional Su-Schrieffer-Heeger plasmonic lattice
     year: '2026'
   XE7w6XIAAAAJ:YOwf2qJgpHMC:
-    citations: 5
-    title: Optical Mie Scattering by DNA-Assembled Three-Dimensional Gold Nanoparticle Superlattice Crystals
-    year: '2023'
+    citations: 6
+    title: Optical mie scattering by DNA-assembled three-dimensional gold nanoparticle superlattice crystals
+    year: '2022'
   XE7w6XIAAAAJ:Zph67rFs4hoC:
     citations: 0
     title: Tuning robust hotspots in plasmonic chains
     year: '2022'
   XE7w6XIAAAAJ:d1gkVwhDpl0C:
-    citations: 25
+    citations: 26
     title: -matrix pole symmetries for non-Hermitian scattering Hamiltonians
-    year: '2018'
-  XE7w6XIAAAAJ:kNdYIx-mwKoC:
-    citations: 0
-    title: Long-range molecular energy transfer mediated by strong coupling to plasmonic topological edge states (dataset)
-    year: '2024'
+    year: '2019'
   XE7w6XIAAAAJ:u-x6o8ySG0sC:
     citations: 32
     title: Symmetries and invariants for non-Hermitian Hamiltonians

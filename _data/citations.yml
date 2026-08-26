@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-26'
 papers:
   XE7w6XIAAAAJ:0EnyYjriUFMC:
     citations: 19
@@ -26,11 +26,11 @@ papers:
     title: Long-range molecular energy transfer mediated by strong coupling to plasmonic topological edge states
     year: '2024'
   XE7w6XIAAAAJ:Se3iqnhoufwC:
-    citations: 69
+    citations: 71
     title: "Tailoring \u03C0-conjugation and vibrational modes to steer on-surface synthesis of pentalene-bridged ladder polymers"
     year: '2020'
   XE7w6XIAAAAJ:WF5omc3nYNoC:
-    citations: 60
+    citations: 63
     title: Advances and Prospects in Topological Nanoparticle Photonics
     year: '2022'
   XE7w6XIAAAAJ:Wp0gIr-vW9MC:
@@ -38,9 +38,9 @@ papers:
     title: Far-field radiation of bulk, edge, and corner eigenmodes from a finite two-dimensional Su-Schrieffer-Heeger plasmonic lattice
     year: '2026'
   XE7w6XIAAAAJ:YOwf2qJgpHMC:
-    citations: 6
-    title: Optical mie scattering by DNA-assembled three-dimensional gold nanoparticle superlattice crystals
-    year: '2022'
+    citations: 7
+    title: Optical Mie Scattering by DNA-Assembled Three-Dimensional Gold Nanoparticle Superlattice Crystals
+    year: '2023'
   XE7w6XIAAAAJ:Zph67rFs4hoC:
     citations: 0
     title: Tuning robust hotspots in plasmonic chains

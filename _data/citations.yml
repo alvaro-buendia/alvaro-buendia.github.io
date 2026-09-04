@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-09-04'
 papers:
   XE7w6XIAAAAJ:0EnyYjriUFMC:
     citations: 19
@@ -17,6 +17,10 @@ papers:
     citations: 0
     title: "TOPOLOGICAL NANOPHOTONICS: SYMMETRY\u2013PROTECTED STATES OF ARRAYS OF PLASMONIC NANOPARTICLES"
     year: Unknown Year
+  XE7w6XIAAAAJ:IWHjjKOFINEC:
+    citations: 0
+    title: Exceptional point induced by hyperbolicity in an electrostatic spherical shell
+    year: '2026'
   XE7w6XIAAAAJ:KlAtU1dfN6UC:
     citations: 0
     title: Strong coupling between molecules and topological edge states of arrays of plasmonic nanoparticles
